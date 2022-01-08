@@ -1,2 +1,4 @@
 # PythonScripts
-Assortment of Python scripts I have written
+Just a random assortment of Python scripts and programs I've written.
+
+
